@@ -1,0 +1,1 @@
+powershell -ExecutionPolicy Bypass -File V:\_tools\vman-retrobat-master\lightgun\vman_lightgun.ps1
