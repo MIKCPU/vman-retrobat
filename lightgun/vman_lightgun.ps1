@@ -1,5 +1,5 @@
 # Data sources and variables
-$version ='** VMAN RBL Lightgun-Bliss Experience v3.5.1.2 by Bilu **'
+$version ='** Mikcpu RBL Lightgun-Bliss Experience v3.5.1.3 by Mikcpu **'
 $OutputEncoding = [Console]::OutputEncoding
 $templatecfg='V:\_tools\vman-retrobat-master\lightgun\templates'
 $overridefolder='V:\RetroBat\emulators\retroarch\config'
